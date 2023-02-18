@@ -1,21 +1,21 @@
 {
   "menu": [
     {
-      "img": "img/tabs/vegy.jpg",
+      "img": "https://ferma-m2.ru/images/shop/recipe_image/crop_500h500_4.jpg",
       "altimg": "vegy",
       "title": "Меню 'Фитнес'",
       "descr": "Меню 'Фитнес' - это новый подход к приготовлению блюд: больше свежих овощей и фруктов. Продукт активных и здоровых людей. Это абсолютно новый продукт с оптимальной ценой и высоким качеством!",
       "price": 9
     },
     {
-      "img": "img/tabs/post.jpg",
+      "img": "https://ferma-m2.ru/images/shop/recipe_image/crop_500h500_4.jpg",
       "altimg": "post",
       "title": "Меню 'Постное'",
       "descr": "Меню 'Постное' - это тщательный подбор ингредиентов: полное отсутствие продуктов животного происхождения, молоко из миндаля, овса, кокоса или гречки, правильное количество белков за счет тофу и импортных вегетарианских стейков.",
       "price": 14
     },
     {
-      "img": "img/tabs/elite.jpg",
+      "img": "https://ferma-m2.ru/images/shop/recipe_image/crop_500h500_4.jpg",
       "altimg": "elite",
       "title": "Меню 'Премиум'",
       "descr": "В меню 'Премиум' мы используем не только красивый дизайн упаковки, но и качественное исполнение блюд. Красная рыба, морепродукты, фрукты - ресторанное меню без похода в ресторан!",
@@ -32,6 +32,171 @@
       "name": "Dddddd",
       "phone": "+894985589",
       "id": 2
+    },
+    {
+      "name": "Dddddd",
+      "phone": "0390049",
+      "id": 3
+    },
+    {
+      "name": "Dddddd",
+      "phone": "0390049",
+      "id": 4
+    },
+    {
+      "name": "Dddddd",
+      "phone": "0390049",
+      "id": 5
+    },
+    {
+      "name": "Dddddd",
+      "phone": "0390049",
+      "id": 6
+    },
+    {
+      "name": "Dddddd",
+      "phone": "0390049",
+      "id": 7
+    },
+    {
+      "name": "Dddddd",
+      "phone": "0390049",
+      "id": 8
+    },
+    {
+      "name": "Dddddd",
+      "phone": "0390049",
+      "id": 9
+    },
+    {
+      "name": "Dddddd",
+      "phone": "0390049",
+      "id": 10
+    },
+    {
+      "name": "Dddddd",
+      "phone": "0390049",
+      "id": 11
+    },
+    {
+      "name": "Dddddd",
+      "phone": "0390049",
+      "id": 12
+    },
+    {
+      "name": "Dddddd",
+      "phone": "0390049",
+      "id": 13
+    },
+    {
+      "name": "Dddddd",
+      "phone": "0390049",
+      "id": 14
+    },
+    {
+      "name": "Dddddd",
+      "phone": "0390049",
+      "id": 15
+    },
+    {
+      "name": "Dddddd",
+      "phone": "0390049",
+      "id": 16
+    },
+    {
+      "name": "Dddddd",
+      "phone": "0390049",
+      "id": 17
+    },
+    {
+      "name": "Dddddd",
+      "phone": "0390049",
+      "id": 18
+    },
+    {
+      "name": "Dddddd",
+      "phone": "0390049",
+      "id": 19
+    },
+    {
+      "name": "Dddddd",
+      "phone": "0390049",
+      "id": 20
+    },
+    {
+      "name": "Dddddd",
+      "phone": "0390049",
+      "id": 21
+    },
+    {
+      "name": "Dddddd",
+      "phone": "0390049",
+      "id": 22
+    },
+    {
+      "name": "Dddddd",
+      "phone": "0390049",
+      "id": 23
+    },
+    {
+      "name": "Dddddd",
+      "phone": "0390049",
+      "id": 24
+    },
+    {
+      "name": "Dddddd",
+      "phone": "+894985589",
+      "id": 25
+    },
+    {
+      "name": "Dddddd",
+      "phone": "+894985589",
+      "id": 26
+    },
+    {
+      "name": "Dddddd",
+      "phone": "+894985589",
+      "id": 27
+    },
+    {
+      "name": "Dddddd",
+      "phone": "+894985589",
+      "id": 28
+    },
+    {
+      "name": "Dddddd",
+      "phone": "+894985589",
+      "id": 29
+    },
+    {
+      "name": "Dddddd",
+      "phone": "+894985589",
+      "id": 30
+    },
+    {
+      "name": "Dddddd",
+      "phone": "0390049",
+      "id": 31
+    },
+    {
+      "name": "Dddddd",
+      "phone": "0390049",
+      "id": 32
+    },
+    {
+      "name": "Dddddd",
+      "phone": "0390049",
+      "id": 33
+    },
+    {
+      "name": "Dddddd",
+      "phone": "0390049",
+      "id": 34
+    },
+    {
+      "name": "Dddddd",
+      "phone": "0390049",
+      "id": 35
     }
   ]
 }
