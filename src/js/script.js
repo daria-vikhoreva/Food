@@ -1,6 +1,6 @@
 'use strict';
 
-import '../scss/style.scss';
+import './../scss/style.scss';
 
 import tabs from './modules/tabs';
 import modal from './modules/modal';
